@@ -1,0 +1,130 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+nav{
+    color: white;
+}
+.navbar {
+    flex-direction: row;
+    flex-wrap: wrap;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    background-color: #000563;
+    align-items: center;
+}
+h1{
+    margin-top: 10px;
+    margin-bottom: 10PX;
+}
+.feedback{
+    color: green;
+    background-color: whitesmoke;
+    padding: 3px;
+    width: 120px;
+    height: 50px;
+    border-radius: 5%;
+}
+.user-menu img {
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    object-fit: cover;
+    background-color: #000563;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 7px;
+}
+nav div {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+nav div img {
+    width: 40px;
+    margin-right: 8px;
+}
+.logo{
+    height: 42.5px;
+    width: 100px;
+    margin-right: 100px;
+}
+table,th,td{
+    border: 1px solid #bfbfbf;
+    border-collapse: collapse;
+}
+th,td{
+    border: 1px solid #BFBFBF;
+    border-collapse: collapse;
+    padding: 15px;
+    width: 200px;
+}
+.tafel{
+    width: 50%;
+    display: inline-flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.items{
+    margin-right: 100px;
+}
+.green{
+    width: 90px;
+    height: 40px;
+    border-radius: 10%;
+}
+.speech{
+    padding: 20px;
+    border: 1px solid #BFBFBF;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    width: 250px;
+    height: 370px;
+    margin-top: 15px;
+    margin-left: 25px;
+    max-width: 100%;
+}
+.bloempot{
+    display: flex;
+    width: 200px;
+}
+.xp{
+    background-color: rgb(3, 219, 253);
+    width: 200px;
+    height: 24px;
+    border-radius: 5px;
+}
+.filled{
+    background-color: rgb(19, 198, 117);
+    width: 6px;
+    height: 23px;
+    border-radius: 30%;
+}
+.credits{
+    background-color: #000563;
+}
+.green{
+    color: white;
+    background-color:rgb(19, 198, 117)
+}
+.eenopeen{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap
+}
+
+

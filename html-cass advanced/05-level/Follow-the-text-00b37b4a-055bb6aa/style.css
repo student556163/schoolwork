@@ -1,0 +1,16 @@
+.icon:hover + .tooltip-content{
+    display: block;
+    cursor: pointer;
+    position: sticky;
+    top: 0;
+    background-color: aquamarine;
+    border: 2px solid;
+}
+.tooltip-content{
+    padding: 5px;
+    display: none;
+}
+.tooltip{
+    position: sticky;
+    top: 0;
+}

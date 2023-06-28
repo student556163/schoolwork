@@ -1,0 +1,27 @@
+.navbar{
+    background-color: pink;
+    display: flex;
+    height: 1.5cm;
+    justify-content: space-around;
+}
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: blueviolet;
+}
+.news:first-child{
+    width: 100%;
+    order: 3;
+}
+.news{
+    order: 4;
+    width: 33%;
+}
+#breaking{
+    order: 1;
+    display: flex;
+    flex-direction: column;
+}

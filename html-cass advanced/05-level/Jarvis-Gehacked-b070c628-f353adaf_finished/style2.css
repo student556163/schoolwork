@@ -1,0 +1,33 @@
+header {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+    align-items: center;
+}
+
+.user-menu img {
+    height: 50px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav div {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+nav div:nth-child(3) {
+    color: black;
+    background-color: white;
+}
+
+nav div img {
+    width: 40px;
+    margin-right: 4px;
+}

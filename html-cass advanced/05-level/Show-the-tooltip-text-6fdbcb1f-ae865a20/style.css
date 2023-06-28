@@ -1,0 +1,7 @@
+.icon:hover + .tooltip-content{
+    display: block;
+}
+.tooltip-content{
+    padding: 5px;
+    display: none;
+}
