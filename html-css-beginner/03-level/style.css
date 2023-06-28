@@ -1,0 +1,35 @@
+.myDiv {
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
+}
+
+div.a{
+     font-size: large;
+}
+h1{
+    color:red;
+    text-align: left;
+    font-size: large;
+}
+h2{
+    color: red;
+    text-align: left;
+    font-size: large;
+}
+h3{
+    color: red;
+    text-align: left;
+    font-size: large;
+}
+body {
+    background-color: darkolivegreen;
+}
+img{
+    width: 50%;
+    height: 50%;
+}
+label {
+    display: block;
+}
+

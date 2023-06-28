@@ -1,0 +1,12 @@
+th, tbody, td{
+    text-align:left;
+    width: 100px;
+    border: solid black 1px;
+}
+div{
+    border: 1px solid black;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+}
