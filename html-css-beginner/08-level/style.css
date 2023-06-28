@@ -1,0 +1,17 @@
+td:hover{
+    border:1px solid black;
+    background-color: yellow;
+    cursor: pointer;
+  }
+  .num1q{
+  background-color: orange;
+  }
+  .num1{
+    background-color: orchid;
+  }
+  .num2{
+    background-color: cornflowerblue;
+  }
+  .num3{
+    background-color: blanchedalmond;
+  }
